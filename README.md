@@ -61,3 +61,16 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Express.js Documentation](https://expressjs.com/)
 - [RESTful API Design Best Practices](https://restfulapi.net/)
 - [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) 
+
+# My API
+This API allows users to manage a product inventory. users can create, update, delete and retrieve product details.
+
+installation instructions
+1. Clone the repository
+2. Install dependencies:
+   bash
+npm install
+3. Set up environment variables:
+4. Start the server:
+   bash
+npm start
